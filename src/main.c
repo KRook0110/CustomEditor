@@ -332,6 +332,7 @@ void editor_process_key() {
                            E.cursor_y + 1);
                 E.rows[E.cursor_y].size = E.cursor_x;
                 E.rows[E.cursor_y].chars[E.cursor_x] = '\0';
+                editor_move_cursor(ARROW_RIGHT);
             } else {
                 row_insert("", 0, E.cursor_y + 1);
             }

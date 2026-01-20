@@ -3,7 +3,7 @@ CC = gcc
 CFLAGS = -Wall -O2 -g
 
 # Target executable
-TARGET = my_program
+TARGET = shaditor
 
 # Source files
 SRCS = ./src/main.c ./src/appendbuffer.c ./src/terminalutil.c
