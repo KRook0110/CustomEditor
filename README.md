@@ -17,6 +17,6 @@ This project is not finished.
 4. Quit from the editor press {ctrl + q}
 
 ## Todo
--[ ] Backspace
--[ ] Create new files
+- [ ] Backspace
+- [ ] Create new files
 
