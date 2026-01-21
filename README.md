@@ -13,8 +13,9 @@ This project is not finished.
 `make`
 2. Run the editor
 `./shaditor {file_name}`
-3. Save the file press {ctrl + s}
-4. Quit from the editor press {ctrl + q}
+3. Move around with the arrow keys
+4. Save the file press {ctrl + s}
+5. Quit from the editor press {ctrl + q}
 
 ## Todo
 -[ ] Backspace
